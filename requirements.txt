@@ -1,0 +1,8 @@
+pytest==5.3.5
+selenium==3.141.0
+pytest-html==2.0.1
+webdriver-manager>=2.3.0
+allure-pytest==2.8.7
+pytest-rerunfailures==8.0
+pytest-testconfig==0.2.0
+teamcity-messages>=1.25
